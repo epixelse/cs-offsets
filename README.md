@@ -1,4 +1,4 @@
-# CS offsets <img align="right" width="128" height="128" src="https://user-images.githubusercontent.com/103336115/182740774-6f52adeb-df99-46a5-bf69-572b8c82f02c.png"/>
+# CS offsets<img align="right" width="128" height="128" src="https://user-images.githubusercontent.com/103336115/183117198-abe1b7d3-a250-41f0-a269-2310984d7b30.png#gh-dark-mode-only"/><img align="right" width="128" height="128" src="https://user-images.githubusercontent.com/103336115/183117297-ba53f869-1206-4e11-8188-cfce5b48b954.png#gh-light-mode-only"/>
 Counter-Strike offsets.
 
 ## Supported OS
@@ -36,7 +36,7 @@ Located in `ENGINE` module or loaded in app in pre-SteamPipe builds.
 "ScreenFade" + 0x13 // 1460
 ```
 
-## Server <img align="right" width="32" height="32" src="https://user-images.githubusercontent.com/103336115/183089554-d4a825f0-930c-4e6a-8f9f-8441942c1eb2.png"/>
+## Server<img align="right" width="32" height="32" src="https://user-images.githubusercontent.com/103336115/183089554-d4a825f0-930c-4e6a-8f9f-8441942c1eb2.png"/>
 Located in `ENGINE` module or loaded in app in pre-SteamPipe builds.
 ```cpp
 "Server shutting down" - 0x36 // 6027
