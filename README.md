@@ -36,7 +36,7 @@ Located in `ENGINE` module or loaded in app in pre-SteamPipe builds.
 "ScreenFade" + 0x13 // 1460
 ```
 
-## Server<img title="Server-Side" align="right" width="32" height="32" src="https://user-images.githubusercontent.com/103336115/183138951-575f59b3-92b7-4bba-9615-bc729748d91a.png#gh-dark-mode-only"/><img align="right" width="32" height="32" src="https://user-images.githubusercontent.com/103336115/183138945-64629698-35fd-4b48-920b-fb837dea0d88.png#gh-light-mode-only"/>
+## Server<img title="Server-side" align="right" width="32" height="32" src="https://user-images.githubusercontent.com/103336115/183138951-575f59b3-92b7-4bba-9615-bc729748d91a.png#gh-dark-mode-only"/><img align="right" width="32" height="32" src="https://user-images.githubusercontent.com/103336115/183138945-64629698-35fd-4b48-920b-fb837dea0d88.png#gh-light-mode-only"/>
 Located in `ENGINE` module or loaded in app in pre-SteamPipe builds.
 ```cpp
 "Server shutting down" - 0x36 // 6027
@@ -98,7 +98,7 @@ Located in `ENGINE` module or loaded in app in pre-SteamPipe builds.
 "UserMsg: Not Present on Client %d\n" - 0x14 // 1460
 ```
 
-## ClientMsgs<img title="Server-Side" align="right" width="32" height="32" src="https://user-images.githubusercontent.com/103336115/183138951-575f59b3-92b7-4bba-9615-bc729748d91a.png#gh-dark-mode-only"/><img align="right" height="32" src="https://user-images.githubusercontent.com/103336115/183138945-64629698-35fd-4b48-920b-fb837dea0d88.png#gh-light-mode-only"/>
+## ClientMsgs<img title="Server-side" align="right" width="32" height="32" src="https://user-images.githubusercontent.com/103336115/183138951-575f59b3-92b7-4bba-9615-bc729748d91a.png#gh-dark-mode-only"/><img align="right" height="32" src="https://user-images.githubusercontent.com/103336115/183138945-64629698-35fd-4b48-920b-fb837dea0d88.png#gh-light-mode-only"/>
 Located in `ENGINE` module or loaded in app in pre-SteamPipe builds.
 ```cpp
 "SV_ReadClientMessage: badread\n" - 0xD // 6027
