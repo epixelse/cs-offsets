@@ -36,7 +36,7 @@ Located in `ENGINE` module or loaded in app in pre-SteamPipe builds.
 "ScreenFade" + 0x13 // 1460
 ```
 
-## Server<img align="right" width="32" height="32" src="https://user-images.githubusercontent.com/103336115/183122007-07fbfcbb-97a2-4cc8-a12e-b31a8dfa816d.png#gh-dark-mode-only"/><img align="right" width="32" height="32" src="https://user-images.githubusercontent.com/103336115/183121769-85a833df-10c0-4533-82c0-f3cb0642bff4.png#gh-light-mode-only"/>
+## Server<img align="right" width="32" height="32" src="https://user-images.githubusercontent.com/103336115/183138951-575f59b3-92b7-4bba-9615-bc729748d91a.png#gh-dark-mode-only"/><img align="right" width="32" height="32" src="https://user-images.githubusercontent.com/103336115/183138945-64629698-35fd-4b48-920b-fb837dea0d88.png#gh-light-mode-only"/>
 Located in `ENGINE` module or loaded in app in pre-SteamPipe builds.
 ```cpp
 "Server shutting down" - 0x36 // 6027
@@ -72,7 +72,7 @@ g_pClient->HUD_GetStudioModelInterface + 0x36 // 2006
 g_pClient->HUD_GetStudioModelInterface + 0x20 // 1460
 ```
 
-## StudioModelRenderer
+## StudioModelRenderer<img align="right" width="32" height="32" src="https://user-images.githubusercontent.com/103336115/183138894-ee164760-47d8-42dd-874d-acfc019b1037.png#gh-dark-mode-only"/><img align="right" width="32" height="32" src="https://user-images.githubusercontent.com/103336115/183138831-b868d3e5-e9a0-4958-a22e-ac8a5857ae0b.png#gh-light-mode-only"/>
 Located in `CLIENT` module or loaded in app in pre-SteamPipe builds.
 ```cpp
 g_pStudioAPI->StudioDrawModel + 0x5 // 1460
@@ -98,7 +98,7 @@ Located in `ENGINE` module or loaded in app in pre-SteamPipe builds.
 "UserMsg: Not Present on Client %d\n" - 0x14 // 1460
 ```
 
-## ClientMsgs<img align="right" width="32" height="32" src="https://user-images.githubusercontent.com/103336115/183122007-07fbfcbb-97a2-4cc8-a12e-b31a8dfa816d.png#gh-dark-mode-only"/><img align="right" width="32" height="32" src="https://user-images.githubusercontent.com/103336115/183121769-85a833df-10c0-4533-82c0-f3cb0642bff4.png#gh-light-mode-only"/>
+## ClientMsgs<img align="right" width="32" height="32" src="https://user-images.githubusercontent.com/103336115/183138951-575f59b3-92b7-4bba-9615-bc729748d91a.png#gh-dark-mode-only"/><img align="right" width="32" height="32" src="https://user-images.githubusercontent.com/103336115/183138945-64629698-35fd-4b48-920b-fb837dea0d88.png#gh-light-mode-only"/>
 Located in `ENGINE` module or loaded in app in pre-SteamPipe builds.
 ```cpp
 "SV_ReadClientMessage: badread\n" - 0xD // 6027
@@ -146,7 +146,7 @@ g_pEngine->pfnGetLevelName + 0x7 // 2006
 g_pEngine->pfnGetLevelName + 0x1 // 1460
 ```
 
-## ClientSpeed
+## ClientSpeed<img align="right" width="32" height="32" src="https://user-images.githubusercontent.com/103336115/183138894-ee164760-47d8-42dd-874d-acfc019b1037.png#gh-dark-mode-only"/><img align="right" width="32" height="32" src="https://user-images.githubusercontent.com/103336115/183138831-b868d3e5-e9a0-4958-a22e-ac8a5857ae0b.png#gh-light-mode-only"/>
 Located in `ENGINE` module or loaded in app in pre-SteamPipe builds.
 ```cpp
 "Texture load: %6.1fms\n" - 0x7 // 1460
