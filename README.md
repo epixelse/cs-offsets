@@ -158,5 +158,14 @@ Located in `ENGINE` module or loaded in app in pre-SteamPipe builds.
 ```
 Note: points to `relative` address.
 
+## Steam_GSInitiateGameConnection
+Located in `ENGINE` module or loaded in app in pre-SteamPipe builds.
+```cpp
+"%c%c%c%cconnect %i %i \"%s\" \"%s\"\n" - 0x48 // 6027
+"%c%c%c%cconnect %i %i \"%s\" \"%s\"\n" - 0x49 // 4554
+"%c%c%c%cconnect %i %i \"%s\" \"%s\"\n" - 0x6F // 4156
+```
+Note: exists on builds with `STEAMAPI` module and points to `relative` address.
+
 ## Contributing
 If there's something you want to add, submit an [issue](https://github.com/rollangles/cs-offsets/issues).
