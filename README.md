@@ -36,6 +36,13 @@ Located in `ENGINE` module or loaded in app in pre-SteamPipe builds.
 "ScreenFade" + 0x13 // 1460
 ```
 
+## Server <img align="right" width="32" height="32" src="https://user-images.githubusercontent.com/103336115/183089554-d4a825f0-930c-4e6a-8f9f-8441942c1eb2.png"/>
+Located in `ENGINE` module or loaded in app in pre-SteamPipe builds.
+```cpp
+"Server shutting down" - 0x36 // 6027
+"Server shutting down" - 0x37 // 1460
+```
+
 ## Engine
 Located in `CLIENT` module or loaded in app in pre-SteamPipe builds.
 ```cpp
