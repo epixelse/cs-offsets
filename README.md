@@ -172,7 +172,7 @@ Located in `ENGINE` module or loaded in app in pre-SteamPipe builds.
 "%c%c%c%cconnect %i %i \"%s\" \"%s\"\n" - 0x49 // 4554
 "%c%c%c%cconnect %i %i \"%s\" \"%s\"\n" - 0x6F // 4156
 ```
-Note: exists on builds with `STEAMAPI` module and points to `relative` address.
+Note: available on builds with `STEAMAPI` module and points to `relative` address.
 
 ## CL_Move
 Located in `ENGINE` module or loaded in app in pre-SteamPipe builds.
