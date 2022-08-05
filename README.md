@@ -145,6 +145,12 @@ Located in `ENGINE` module or loaded in app in pre-SteamPipe builds.
 "Texture load: %6.1fms\n" - 0x7 // 1460
 ```
 
+## Realtime
+Located in `ENGINE` module or loaded in app in pre-SteamPipe builds.
+```cpp
+"Searching for local servers...\n" + 0xC // 1460
+```
+
 ## Contributing
 If there's something you want to add, submit an [issue](https://github.com/rollangles/cs-offsets/issues) or contact me.
 ```js
