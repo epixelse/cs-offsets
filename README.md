@@ -1,4 +1,4 @@
-# CS offsets <a href="#"><img align="right" width="128" height="128" src="https://user-images.githubusercontent.com/103336115/182740774-6f52adeb-df99-46a5-bf69-572b8c82f02c.png"/></a>
+# CS offsets <img align="right" width="128" height="128" src="https://user-images.githubusercontent.com/103336115/182740774-6f52adeb-df99-46a5-bf69-572b8c82f02c.png"/>
 Counter-Strike offsets.
 
 ## Supported OS
@@ -91,7 +91,7 @@ Located in `ENGINE` module or loaded in app in pre-SteamPipe builds.
 "UserMsg: Not Present on Client %d\n" - 0x14 // 1460
 ```
 
-## ClientMsgs
+## ClientMsgs <img align="right" width="32" height="32" src="https://user-images.githubusercontent.com/103336115/183089554-d4a825f0-930c-4e6a-8f9f-8441942c1eb2.png"/>
 Located in `ENGINE` module or loaded in app in pre-SteamPipe builds.
 ```cpp
 "SV_ReadClientMessage: badread\n" - 0xD // 6027
