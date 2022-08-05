@@ -152,7 +152,4 @@ Located in `ENGINE` module or loaded in app in pre-SteamPipe builds.
 ```
 
 ## Contributing
-If there's something you want to add, submit an [issue](https://github.com/rollangles/cs-offsets/issues) or contact me.
-```js
-FABBIC#2500
-```
+If there's something you want to add, submit an [issue](https://github.com/rollangles/cs-offsets/issues).
