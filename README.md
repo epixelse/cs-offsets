@@ -174,12 +174,5 @@ Located in `ENGINE` module or loaded in app in pre-SteamPipe builds.
 ```
 Note: points to `relative` address and available only on builds with `STEAMAPI` module.
 
-## CL_Move
-Located in `ENGINE` module or loaded in app in pre-SteamPipe builds.
-```cpp
-"E8 ? ? ? ? E8 ? ? ? ? DD 1D ? ? ? ? E8 ? ? ? ? E8 ? ? ? ? DD 1D ? ? ? ? E8 ? ? ? ? A1" + 0x1 // 1460
-```
-Note: points to `relative` address.
-
 ## Contributing
 If there's something you want to add, submit an [issue](https://github.com/rollangles/cs-offsets/issues).
