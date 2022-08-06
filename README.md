@@ -104,7 +104,7 @@ Located in `ENGINE` module or loaded in app in pre-SteamPipe builds.
 "SV_ReadClientMessage: badread\n" - 0xD // 6027
 "SV_ReadClientMessage: badread\n" - 0xE // 5944
 "SV_ReadClientMessage: badread\n" - 0x10 // 4156
-"SV_ReadClientMessage: badread\n" - 0xE // 3266
+"SV_ReadClientMessage: badread\n" - 0xE // 3213
 "SV_ReadClientMessage: badread\n" - 0xD // 1786
 "SV_ReadClientMessage: badread\n" - 0xC // 1460
 ```
