@@ -158,7 +158,7 @@ Located in `ENGINE` module or loaded in app in pre-SteamPipe builds.
 "Searching for local servers...\n" + 0xC // 1460
 ```
 
-## COM_BuildNumber
+## build_number
 Located in `ENGINE` module or loaded in app in pre-SteamPipe builds.
 ```cpp
 "Half-Life %i/%s (hw build %d)" - 0xC // 1460
